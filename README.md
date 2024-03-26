@@ -9,7 +9,7 @@
 
 # GameJam - UPSI JAM 4.0
 
-> From 22-03-2024 to 24-03-2024
+> From 22-03-2024 at 5:00pm to 24-03-2024 at 12:00pm
 
 
 <p align="left">
