@@ -37,8 +37,7 @@
 <br>
 <br>
 
-# Itch.io page
-
+# Itch.io
 <p align="center"> 
 	<a href="https://rain365.itch.io/brick-wall">
 		<img src="utils/page.png" width="100%"/>
